@@ -13,7 +13,7 @@ Use Node.js LTS compatible with Expo SDK 58. Run `npm ci`, then `npm run web` fo
 - Home/profile stack navigation and logout clearing the profile.
 - Header, restaurant hero, search, multi-category filters, menu list, empty/error/retry states.
 - Course menu endpoint; native SQLite cache. Browser preview uses AsyncStorage instead of SQLite.
-- `docs/wireframe.jpg`: original local wireframe with grid and three screens. This is **not a Figma export**. Recreate/import and finish the requested Figma components/styles before claiming those activities complete.
+- `docs/wireframe-figma.jpg`: actual JPEG export of the three wireframes from Figma. `docs/wireframe.jpg` retains the initial local sketch. The Figma file includes native screens, button variants, shared styles and four-column grids; prototype links connect Next to Home, profile initials to Profile, and the back arrow to the previous screen.
 
 ## Checks completed
 
@@ -22,7 +22,7 @@ TypeScript and Expo ESLint checks; Android JavaScript bundle export (not APK ins
 ## Before peer submission
 
 1. Review and understand the implementation and course AI-use rules.
-2. Finish the Figma design activities and export the wireframe as requested.
+2. Review the Figma design and prototype; the requested JPEG export is included.
 3. Test on a real device or emulator, including offline SQLite caching.
 4. Review the published source: https://github.com/Altusha4/little-lemon-capstone.
 5. The actual repository URL is saved in the Coursera draft; submission remains a separate step.
@@ -32,4 +32,4 @@ https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API
 
 ## Design workspace
 
-Figma design in progress: https://www.figma.com/design/wjaCgs0dU3yNz55unVGYpT/
+Figma design: https://www.figma.com/design/wjaCgs0dU3yNz55unVGYpT/
