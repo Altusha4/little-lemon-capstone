@@ -24,8 +24,12 @@ TypeScript and Expo ESLint checks; Android JavaScript bundle export (not APK ins
 1. Review and understand the implementation and course AI-use rules.
 2. Finish the Figma design activities and export the wireframe as requested.
 3. Test on a real device or emulator, including offline SQLite caching.
-4. Publish the reviewed source and wireframe to your GitHub repository. No repository has been published by this task.
-5. Paste that actual repository URL into the saved Coursera draft. Do not use a fabricated URL.
+4. Review the published source: https://github.com/Altusha4/little-lemon-capstone.
+5. The actual repository URL is saved in the Coursera draft; submission remains a separate step.
 
 Menu data and remote dish images are referenced from the Meta course repository:
 https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API
+
+## Design workspace
+
+Figma design in progress: https://www.figma.com/design/wjaCgs0dU3yNz55unVGYpT/
